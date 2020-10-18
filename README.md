@@ -1,10 +1,10 @@
 ### Ahmed Emad Mahfouz
-views.
-controllers.
-routes.
-Authorization.
+views.<br>
+controllers.<br>
+routes.<br>
+Authorization.<br>
 
 ### Khaled Magdi
-views.
-migrations.
-models.
+views.<br>
+migrations.<br>
+models.<br>
